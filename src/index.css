@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap");
+
+.footer {
+  height: 30px;
+  width: 100vw;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  position: fixed;
+  bottom: 0pt;
+  left: 0pt;
+  text-align: center;
+  background-color: #484b4d;
+  color: white;
+}
+
+.footer_contents {
+  height: 30px;
+  width: 100vw;
+  margin: auto;
+}
